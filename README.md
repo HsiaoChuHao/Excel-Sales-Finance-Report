@@ -1,6 +1,5 @@
-# Excel-Sales-Finance-Report
 
-## Sales Report :
+## Sales Finance Report :
 
 
 - **Project objective:** 
